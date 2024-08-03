@@ -13,7 +13,7 @@ The script requires the following Python libraries:
 - `scikit-learn`
 - `scikeras`
 - `tensorflow`
-
+- `mapie`
 
 ## Usage
 
