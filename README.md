@@ -28,4 +28,5 @@ The script requires the following Python libraries:
 
 
 
-The commentary is supported by jetbrain ai assiatent.
+
+The commentary and cleanup of the code is supported by jetbrain ai assiatent.
